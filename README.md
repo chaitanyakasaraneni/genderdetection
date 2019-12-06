@@ -2,10 +2,7 @@
 
 This project is done as a part of CMPE 258 course.
 
-Dataset was taken from Kaggle:
-```
-https://www.kaggle.com/jessicali9530/celeba-dataset/
-```
+Dataset was taken from Kaggle: https://www.kaggle.com/jessicali9530/celeba-dataset/ <br>
 Image recognition is one of the many applications of Machine Learning, it can solve problems for security purposes, object detection, face detection, healthcare, entertainment, among others. This application has an enormous potential to help our society, so it is important to find new uses for this tool, improve the current methods and get more accurate and useful insights from it.
 
 ## Model Used
