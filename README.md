@@ -16,3 +16,7 @@ Used pretrained Inception-V3 model with imagenet weights. This is the structure 
 ##### New Top layers
 Layers to be trained with the new model.
 ![alt text](https://github.com/chaitanyakasaraneni/genderdetection/blob/master/images/modified_top_layer.png "Layers to be trained on")
+
+
+#### References
+- Dataset: https://www.kaggle.com/jessicali9530/celeba-dataset/ 
